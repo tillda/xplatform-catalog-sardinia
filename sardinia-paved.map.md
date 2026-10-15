@@ -14,10 +14,10 @@ Views	spectacular
 Forty-five kilometres of empty cliff coast between two old towns, with no village in between and the sea on one side the whole way. The road rolls rather than fights — long open bends, climbs over headlands, drops back towards the water — which makes it a road for looking as much as for riding. Griffon vultures nest in the cliffs above it.
 
 -- route
-40.54150, 8.32226
-40.46590, 8.38484
-40.38769, 8.40275
-40.32357, 8.45352
+40.54551, 8.32200
+40.46985, 8.38116
+40.39169, 8.40442
+40.32621, 8.44836
 Bosa 40.29387, 8.49414
 
 # Arcu Correboi
@@ -52,8 +52,8 @@ Views	spectacular
 A climb out of the vineyards of Jerzu into the country of the tacchi, the flat-topped limestone towers that make this corner of the Ogliastra look like a desert canyon. The tarmac is coarse and grippy, the bends come one after another, and the plateau at the top is as empty as the island gets.
 
 -- route
-Jersu/Jerzu 39.78962, 9.51737
-39.70814, 9.50618
+Jersu/Jerzu 39.78736, 9.51912
+39.71208, 9.50663
 Foghesu/Perdasdefogu 39.68368, 9.44224
 
 # SP17 coast road to Villasimius
@@ -96,7 +96,7 @@ The panoramic road along the island's southern tip. For twenty-odd kilometres it
 -- route
 38.90648, 8.88540
 38.90207, 8.78816
-Teulada 38.96547, 8.76877
+Teulada 38.96535, 8.76537
 
 # SP83 Gonnesa to Buggerru via Nebida and Masua
 ride
@@ -110,8 +110,7 @@ The cliff road of the Iglesiente. It runs high above the sea past the abandoned 
 -- route
 Gonnesa 39.27139, 8.46833
 Nebida 39.31908, 8.43617
-39.36730, 8.39738
-Bugerru/Buggerru 39.39179, 8.40496
+Bugerru/Buggerru 39.38969, 8.40595
 
 # SS125 Baunei to Dorgali
 ride
@@ -143,7 +142,7 @@ Igrèsias/Iglesias 39.31669, 8.53401
 39.35900, 8.50924
 Frùmini Majori/Fluminimaggiore 39.43527, 8.49970
 39.49782, 8.52540
-Arbus 39.52537, 8.59394
+Arbus 39.52466, 8.58915
 39.54037, 8.60983
 
 # SS198 Seui to Lanusei
@@ -157,10 +156,10 @@ Traffic	empty
 The road riders come back from Sardinia talking about. It crosses the empty mountains between the Barbagia and the Ogliastra in one unbroken run of corners — well surfaced, easy to read, and with next to no cars on it. Below Gairo it passes the roofless houses of Gairo Vecchio, abandoned after the flood of 1951 and left standing on the slope.
 
 -- route
-Seui 39.83675, 9.32566
+Seui 39.83441, 9.32755
 Ussassa/Ussassai 39.81184, 9.39169
 39.85659, 9.46457
-39.84624, 9.50138
+Gàiru/Gairo Sant'Elena 39.84756, 9.50422
 39.89644, 9.51564
 Lanusè/Lanusei 39.88217, 9.53364
 
@@ -175,7 +174,7 @@ Traffic	light
 The inland answer to the coast road, and the way to turn Alghero–Bosa into a loop. A narrow road holds the hillside halfway up the western slopes, runs through cork oak and pasture to the small village of Montresta, then lets go and winds down to the Temo valley at Bosa. Tighter and quieter than the shore, with the sea only in glimpses.
 
 -- route
-Biddanoa Monteleone/Villanova Monteleone 40.49712, 8.47391
-40.41717, 8.44303
+Biddanoa Monteleone/Villanova Monteleone 40.50348, 8.46869
+40.42464, 8.44098
 Montresta 40.37145, 8.49435
 Bosa 40.30179, 8.50211
